@@ -1,2 +1,7 @@
 Day la doan code 1 tu master
+
 Day la doan code 1 tu branch1
+
+Day la doan code 2 tu master
+Day la doan code 4 tu master
+
